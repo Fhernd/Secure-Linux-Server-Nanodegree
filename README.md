@@ -200,3 +200,10 @@ This project depends on the following **additional** Python modules installation
 ## Workaround
 
 With an IP address there is no way to add a JavaScript origin to the Google Console, so searching on the Internet I found that [xip.io/](http://xip.io/) was the solution to this exception. Defintion from official website: *xip.io is a magic domain name that provides wildcard DNS for any IP address.*
+
+## Support material
+
+* [How To Configure Apache Virtual Hosts In Ubuntu 18.04 LTS - OSTechNix](https://www.ostechnix.com/configure-apache-virtual-hosts-ubuntu-part-1/)
+* [Google: Permission denied to generate login hint for target domain NOT on localhost - Stack Overflow](https://stackoverflow.com/questions/36020374/google-permission-denied-to-generate-login-hint-for-target-domain-not-on-localh)
+* [amazon ec2 - Update Ubuntu 10.04 - Server Fault](https://serverfault.com/questions/262751/update-ubuntu-10-04/262773#262773)
+* Guide for configuration: [https://github.com/jungleBadger/-nanodegree-linux-server](https://github.com/jungleBadger/-nanodegree-linux-server)
